@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+h1{
+    color: #6502a7;
+    text-align: center;
+    margin-top: 45px;
+}
+
+.design{
+    width: 450px;
+    text-align: center;
+    padding: 30px;
+    background-color: #f4f4f4;
+    border: 2px solid #6502a7;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 25px;
+    color: #6502a7;
+}
+
+p{
+    text-align: center;
+    color: #6502a7;
+    text-transform: capitalize;
+}
+

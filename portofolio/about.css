@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: #6502a7;
+    text-decoration: solid #6502a7 underline ;
+}
+
+p{
+    text-align: justify;
+    line-height: 25px;
+}
+
+span{
+    color: #6502a7;
+}
